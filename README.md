@@ -1,7 +1,7 @@
 # Mbot
  mBot is a friendly, affordable, Arduino compatible, entry-level robot for enjoyable electronics education.
 This is the link to my youtube channel that I made.
-#1.The Mbot is stuck in the box
+# 1.The Mbot is stuck in the box
 https://www.youtube.com/watch?v=mK-Z6TbHP1E
 2.The Mbot is dodging the people
 https://youtu.be/h7weNgVvsOs
