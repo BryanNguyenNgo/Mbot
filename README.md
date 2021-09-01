@@ -5,7 +5,7 @@ This is the link to my youtube channel that I made.
 https://www.youtube.com/watch?v=mK-Z6TbHP1E
 # 2.The Mbot is dodging the people
 It is progammed to avoid obstacles such as people, walls, etc
-https://youtu.be/h7weNgVvsOs
+https://www.youtube.com/watch?v=h7weNgVvsOU
 # 3.The Mbot is moving along the 8-shaped track
 https://youtu.be/SxD2f900Q9s
 # 4.Mbot is moving along the T-shaped track
